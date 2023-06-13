@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://iamsrikants.github.io/sitemap.xml
-Host: https://iamsrikants.github.io
+Sitemap: https://vidyabhandary.github.io/sitemap.xml
+Host: https://vidyabhandary.github.io
